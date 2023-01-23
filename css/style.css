@@ -1,0 +1,14 @@
+.trip-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 3rem;
+    padding: 4rem 6rem;
+    background-color: rgb(201, 255, 237);
+}
+
+h1 {
+    color: rgb(87, 87, 245);
+    text-align: center;
+}
